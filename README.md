@@ -1,4 +1,4 @@
-# FrozenLake Q-Learning
+# Tabular Q-learning on FrozenLake-v1
 
 <center><img src="https://gymnasium.farama.org/_images/frozen_lake.gif"></center>
 
